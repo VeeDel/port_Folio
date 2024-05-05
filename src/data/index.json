@@ -1,0 +1,146 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Frontend enthusiast crafting captivating user interfaces with a blend of creativity and technical prowess."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Graphics Designing",
+      "description": "Graphic design maestro shaping visual narratives with a harmonious blend of creativity and aesthetics."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI/UX virtuoso transforming ideas into intuitive and visually stunning digital experiences"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Web flow developer crafting interactive and responsive web applications with expertise in Webflow design."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/plc1.jpg",
+      "title": "E-Commerce",
+      "description": "Modern e-commerce site with React, emphasizing product categorization, personalized accounts, and an intuitive checkout. Focus on scalability and a visually appealing design.",
+      "link": "View In Github",
+      "links": ""
+    },
+    {
+      "id": "2",
+      "src": "./img/plc3.jpg",
+      "title": "Shopfinity",
+      "description": "Dynamic e-commerce platform using React, JavaScript, and CSS. Secure authentication, seamless checkout, and a user-friendly interface for an optimal online shopping experience.",
+      "link": "View In Github",
+      "links": "https://github.com/VeeDel/shopfinity"
+    },
+    {
+      "id": "3",
+      "src": "./img/plc4.jpg",
+      "title": "Movies Rating",
+      "description": "React-based platform enabling users to rate and discover movies. Interactive interface, user authentication, and review functionalities for a community-driven movie-sharing experience.",
+      "link": "View In Github",
+      "links": "https://github.com/VeeDel/Movies-rating"
+    },
+    {
+      "id": "4",
+      "src": "./img/gw.jpg",
+      "title": "GetWell Engineering",
+      "description": "GetWell Engineering's website: Streamlined design, intuitive navigation, showcasing services and expertise for enhanced user experience and engagement.",
+      "link": "View In Github",
+      "links": "https://getwellvrf.netlify.app/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/man.png",
+      "description": "Absolutely thrilled with the web developer's work on my portfolio! The design is sleek, and the functionality is top-notch – a true professional who exceeded my expectations",
+      "author_name": "Shoyab Solanki",
+      "author_designation": "PortFolio Website"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/user.png",
+      "description": "The restaurant website created by this web developer is a masterpiece! The design is visually enticing, and the seamless navigation enhances the overall user experience. Exceptional work that beautifully captures the essence of our establishment.",
+      "author_name": "Soyam chouhan",
+      "author_designation": "Restaurent Website"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/profile.png",
+      "description": "Exceptional e-commerce website crafted by a skilled web developer. Seamless user experience and captivating design elevate our online presence.",
+      "author_name": "Manish Sharma",
+      "author_designation": "E-commerce Website"
+    }
+  ],
+  "webDesign": [
+    {
+      "id": "1",
+      "src": "./img/DrinkApp.jpg",
+      "title": "Cold Drink App Ui",
+      "description": "Fresh UI design: mobile app for soft drinks. Intuitive, vibrant, easy browsing. Enhance user experience. Explore in portfolio.",
+      "link": "View Me",
+      "links": "https://www.figma.com/file/XgDILMDeYZ3WdO007o2Puo/Untitled?type=design&node-id=0%3A1&mode=design&t=3IxnbA2rnA7SwmJe-1"
+    },
+    {
+      "id": "2",
+      "src": "./img/AgencyUI.jpg",
+      "title": "Agency-UI/UX",
+      "description": "Dynamic UI design for agency. Sleek, professional, intuitive navigation. Elevate brand presence. Explore in portfolio.",
+      "link": "View Me",
+      "links": "https://www.figma.com/file/yqFTJ1TGa9bCGCbBcUI244/Untitled?type=design&node-id=0%3A1&mode=design&t=0h811P12fTnFyMbx-1"
+    },
+    {
+      "id": "3",
+      "src": "./img/TeslaUI.jpg",
+      "title": "Tesla-Ui/UX",
+      "description": "Tesla website UI clone. Precision, elegance, seamless navigation. Immerse in cutting-edge design. Explore in portfolio.",
+      "link": "View Me",
+      "links": "https://www.figma.com/file/PlHXMVJM5BPTpxPi5TWAiJ/Untitled?type=design&node-id=0%3A1&mode=design&t=FaidhJTXioiEZyOL-1"
+    },
+    {
+      "id": "4",
+      "src": "./img/rentDesk.jpg",
+      "title": "Rent Desk Space",
+      "description": "Desk space rental website UI. Modern, inviting, efficient layout. Enhance productivity in shared office environments.",
+      "link": "View Me",
+      "links": "https://www.figma.com/file/yqFTJ1TGa9bCGCbBcUI244/Untitled?type=design&node-id=115%3A396&mode=design&t=fvlHplfWJ5poxsp2-1"
+    },
+    {
+      "id": "5",
+      "src": "./img/workatoEcom.jpg",
+      "title": "Online Shopping App",
+      "description": "Online grocery website UI. Fresh, intuitive, convenient browsing. Streamline shopping for everyday essentials.",
+      "link": "View Me",
+      "links": "https://www.figma.com/file/PlHXMVJM5BPTpxPi5TWAiJ/Untitled?type=design&node-id=56%3A11&mode=design&t=FaidhJTXioiEZyOL-1"
+    },
+    {
+      "id": "6",
+      "src": "./img/MiscsUI.jpg",
+      "title": "Misc's Medicine UI",
+      "description": "Medicine website UI. Clear, informative, user-friendly design. Access vital healthcare resources with ease.",
+      "link": "View Me",
+      "links": "https://www.figma.com/file/0Fh3l8ZGxx0ChwROllBENT/NB?type=design&node-id=0-1&mode=design"
+    },
+    {
+      "id": "7",
+      "src": "./img/warkatoUI.jpg",
+      "title": "Private Workato UI",
+      "description": "Private Workato learning website UI. Organized, educational, user-friendly interface. Enhance Workato skills with structured content.",
+      "link": "View Me",
+      "links": "https://www.figma.com/file/PlHXMVJM5BPTpxPi5TWAiJ/Untitled?type=design&node-id=70%3A69&mode=design&t=FaidhJTXioiEZyOL-1"
+    }
+  ]
+}
